@@ -15,7 +15,6 @@ header {
 }
 
 table, th, td{
-    border:1px solid black;
   
 }
 
@@ -24,33 +23,33 @@ a {text-decoration: none;}
 li {list-style: none;}
 
 .section{
-    border:1px solid black;
+
     min-height:1000px;
 }
 
 .sectionProjects{
     
-    border:1px solid black;
-    min-height:2800px;
+
+    min-height:4300px;
     
 }
 .sectionPublication{
-    border:1px solid black;
-    min-height:2200px;
+
+    min-height:2800px;
 }
 
 .section2{
-    border:1px solid black;
+
     min-height:1500px;
 }
 
 .section3{
-    border:1px solid black;
+
     min-height:500px;
     
 }
 .sectionInterests{
-    border:1px solid black;
+
     min-height:2000px;
     
 }
@@ -74,7 +73,7 @@ p{
 }
 
 .publication{
-    font-family: fantasy;
+    
     font: color black;
     
     
